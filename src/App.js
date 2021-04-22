@@ -1,4 +1,4 @@
-import Interview from "./Interview/Interview.js"
+import Interview from "./Components/Interview/Interview.js"
 
 function App() {
   return (
